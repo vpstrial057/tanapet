@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 640" x="0px" y="0px">
+    <title>house, home, pixel, digital, sign, art, nft</title>
+    <g>
+        <rect x="16" y="208" width="24" height="24"/>
+        <rect x="40" y="184" width="24" height="24"/>
+        <rect x="64" y="160" width="24" height="24"/>
+        <rect x="88" y="136" width="24" height="24"/>
+        <rect x="112" y="112" width="24" height="24"/>
+        <polygon points="376 112 376 136 400 136 400 64 376 64 376 88 136 88 136 112 376 112"/>
+        <rect x="208" y="304" width="96" height="24"/>
+        <rect x="472" y="208" width="24" height="24"/>
+        <rect x="448" y="184" width="24" height="24"/>
+        <polygon
+                points="40 232 40 256 64 256 64 448 88 448 88 256 424 256 424 448 448 448 448 256 472 256 472 232 40 232"/>
+        <polygon
+                points="328 448 328 328 304 328 304 448 208 448 208 328 184 328 184 448 88 448 88 472 424 472 424 448 328 448"/>
+        <rect x="232" y="376" width="24" height="24"/>
+        <rect x="400" y="40" width="24" height="24"/>
+        <polygon points="424 136 400 136 400 160 424 160 424 184 448 184 448 64 424 64 424 136"/>
+        <rect x="160" y="136" width="24" height="24"/>
+        <rect x="280" y="136" width="24" height="24"/>
+        <rect x="352" y="160" width="24" height="24"/>
+        <rect x="208" y="160" width="24" height="24"/>
+        <rect x="112" y="184" width="24" height="24"/>
+        <rect x="304" y="184" width="24" height="24"/>
+    </g>
+</svg>
